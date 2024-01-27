@@ -1,0 +1,28 @@
+.mainContainer {
+  margin: 10px;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+  text-align: center;
+  width: 100%;
+}
+.cardContainer {
+  display: grid;
+  justify-content: center;
+  grid: auto / auto auto auto;
+}
+.card {
+  margin: 5px;
+  align-items: center;
+  text-align: center;
+}
+.input {
+  margin: 0 10px;
+  height: 37px;
+}
+.search {
+  margin: 10px;
+}
+.link {
+  text-decoration: none;
+}

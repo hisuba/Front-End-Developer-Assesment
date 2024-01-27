@@ -1,0 +1,26 @@
+.login-form {
+background-color:#2BA8DE;
+  align-items: center;
+  width: 35%;
+  padding: 100px;
+  box-shadow: 1px 0px 2px 1px;
+}
+.container {
+  display: flex;
+  margin: 150px;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+}
+.validate-input {
+margin: 5px 5px;
+ 
+}
+.input{
+    padding: 0 30px;
+    border: none;
+    box-shadow: 1px 1px 1px 1px;
+    border-radius: 3px;
+}
+
+
